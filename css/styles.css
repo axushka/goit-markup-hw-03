@@ -47,7 +47,7 @@ a { text-decoration: none;}
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em; color: #ffffff; background-color: #4d5ae5; cursor: pointer;}
-    .hero-button:hover .hero-button { color: #ffffff; background-color: #404bbf;}
+    .hero-button:hover .hero-button:focus { color: #ffffff; background-color: #404bbf;}
     
     
  
