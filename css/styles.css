@@ -44,8 +44,10 @@ ol {
   padding-right: 15px;
   margin: 0 auto;
 }
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
 .page-header .container {
-  
   display: flex;
   align-items: center;
 }
