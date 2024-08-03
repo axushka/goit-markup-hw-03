@@ -209,9 +209,9 @@ ol {
 .our-team-foto {
   background: #fff;
   width: calc((100% - 72px) / 4);
-  border-radius: 0 0 4px 4px; 
+  border-radius: 0 0 4px 4px; display: block;
 }
-.our-team-ul { display: block;}
+
 .team-section .our-team-name {
   font-weight: 500;
   font-size: 20px;
