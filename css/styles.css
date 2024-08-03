@@ -206,10 +206,11 @@ ol {
   color: #2e2f42;
   margin-bottom: 72px;
 }
+img { display: block;}
 .our-team-foto {
   background: #fff;
   width: calc((100% - 72px) / 4);
-  border-radius: 0 0 4px 4px; display: block;
+  border-radius: 0 0 4px 4px;
 }
 
 .team-section .our-team-name {
